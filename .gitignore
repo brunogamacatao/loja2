@@ -1,0 +1,4 @@
+*.h2.db
+*.h2.db.lock
+target
+target/*
